@@ -1,0 +1,11 @@
+# Seguridad
+.env
+.env.local
+
+# Dependencias (para que no se suban carpetas pesadas)
+node_modules/
+__pycache__/
+*.pyc
+
+# Otros
+.DS_Store
